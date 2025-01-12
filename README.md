@@ -55,9 +55,9 @@ E claro, não podemos esquecer de Olivia Colman, que é praticamente sinônimo d
 
 
 
-2.2 – Segue o prompt para gerar a imagem de capa no Microsoft Bing;
+2.2 – Segue o prompt para gerar a imagem de capa no Microsoft Designer
 
-Crie uma imagem para capa de um podcast um personagem jovem usando camisa vermelho com personagem do mario em 8 bits estampado na camisa, com cabelo de tamanho médio e cor preto, usando um headphone e com um microfone de podcast escrito "News" e use óculos, estilo nerd.
+crie uma imagem redonda Imagine um rapaz jovem, com um estilo casual, usando uma camiseta simples de cor escura, como preto ou cinza. Na camiseta, em letras grandes e modernas, está escrito "CINEMA - A NONA ARTE". A tipografia pode ser ousada, talvez com um efeito 3D ou um estilo de fonte vintage, que remete à clássicos do cinema. O rapaz tem um olhar interessado e está posicionado em um ambiente que remete ao cinema – como em frente a uma tela de projeção, ou ao lado de uma claquete.
 
 Resultado;
 
