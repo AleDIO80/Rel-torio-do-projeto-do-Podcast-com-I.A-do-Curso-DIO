@@ -62,6 +62,7 @@ crie uma imagem redonda Imagine um rapaz jovem, com um estilo casual, usando uma
 Resultado;
 
 
+![Designer](https://github.com/user-attachments/assets/7ceb9ab3-2880-415a-b142-f51be5525201)
 
 
 
